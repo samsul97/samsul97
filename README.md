@@ -26,7 +26,7 @@
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite, FireBase
 - ⚖ <b>Testing Tools</b> : Mocha, Selenium,Postman
 - 🌧 <b>Gloud Computing</b> : Google, Alibaba, AWS,
-- 📺 <b>Operating System</b> : Linux, Windows
+- 📺 <b>Operating System</b> : Linux, Windows, MAC
 - 📺 <b>Networking</b> : Hardware(CCTV, Printer, Mikrotik, Switch, Komputer), Network Infrastructure, Server Management 
 <br><br>
   
