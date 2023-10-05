@@ -16,8 +16,8 @@
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : JavaScript, PHP, Go
-- 🗃 <b>Frontend Frameworks</b> : Flutter, Vue.js, HTML/HTML5, CSS/SCSS/SASS
+- 💽 <b>Programming Languages</b> : JavaScript, PHP
+- 🗃 <b>Frontend Frameworks</b> : Flutter, Vue.js, React.js, HTML/HTML5, CSS/SCSS/SASS
 - 🗃 <b>Backend Frameworks</b> : Laravel, Yii, Node.js, Express.js 
 - 🗃 <b>UI Library</b> : Tailwind CSS, Material-UI
 - 📊 <b>Chart</b> : ApexCharts.js, Google Chart, D3.js
