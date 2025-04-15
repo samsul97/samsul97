@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:samsulaculhadi@gmail.com"><img src="https://img.shields.io/badge/email-me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/samsul97"><img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samsulhadi-ss"><img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://samsulhadiss.com"><img src="https://img.shields.io/badge/portfolio-website-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -93,7 +93,7 @@ Here are a few highlighted projects that I'm proud of:
 
 - 📩 Email: [samsulaculhadi@gmail.com](mailto:samsulaculhadi@gmail.com)
 - 🌐 Website: [samsulhadiss.com](https://samsulhadiss.com)
-- 💼 LinkedIn: [linkedin.com/in/samsul97](https://www.linkedin.com/in/samsul97)
+- 💼 LinkedIn: [linkedin.com/in/samsul97](https://www.linkedin.com/in/samsulhadi-ss)
 
 <p align="center">
   <b>"Great things are built with clean code, solid logic, and creative execution."</b>
