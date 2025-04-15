@@ -1,45 +1,106 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Creative, Passionate and Efficient Full-Stack Engineer</h2>
-<p>
-<!--   <p>
-    <img width="100%" src="https://github.com/perfectdev000/perfectdev000/blob/main/The-Full-Stack-Developer-Bundle-Learn-By-Building-40-Apps-22.jpg" />
-  </p> -->
-  <p>
-  Welcome to my profile!<br>
-  My name is Samsul Hadi and I am a Senior Developer and Independent Freelancer and currently live in Indonesia.<br>
-  My goal is to master all the relevant skills and become one of the best developers in the world, and I’m working towards it now!<br>
-  My projects include building Web Development(Frontend & Backend), Mobile Development, Server Management, etc.<br><br>
-  🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
+<h1 align="center">
+  Hi, I'm Samsul Hadi! 👋
+</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Full Stack Software Engineer | Problem Solver | Creative Thinker
 </p>
-<!-- <p align="center">
-  <a href="https://github.com/samsul97"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
-</p> -->
 
-<b> 🎬 I am ready to start your project immediately.</b>
-## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : JavaScript, PHP, Python
-- 🗃 <b>Frontend Frameworks</b> : Flutter, Vue.js, React.js, HTML/HTML5, CSS/SCSS/SASS
-- 🗃 <b>Backend Frameworks</b> : Laravel, Yii, Node.js, Express.js 
-- 🗃 <b>UI Library</b> : Tailwind CSS, Material-UI
-- 📊 <b>Chart</b> : ApexCharts.js, Google Chart, D3.js
-- ⏲ <b>Animation</b> : GreenSock(GSAP), CSS Animation, React-motion
-- 📺 <b>3D Work</b> : OpenGL, WebGL, Three.js
-- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite, FireBase
-- ⚖ <b>Testing Tools</b> : Mocha, Selenium,Postman
-- 🌧 <b>Gloud Computing</b> : Google, Alibaba, AWS,
-- 📺 <b>Operating System</b> : Linux, Windows, MAC
-- 📺 <b>Networking</b> : Hardware(CCTV, Printer, Mikrotik, Switch, Komputer), Network Infrastructure, Server Management 
-<br><br>
-  
+<p align="center">
+  <a href="mailto:samsulaculhadi@gmail.com"><img src="https://img.shields.io/badge/email-me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samsul97"><img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://samsulhadiss.com"><img src="https://img.shields.io/badge/portfolio-website-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
-</details>
-<div align="center">
-<!-- <h2>Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2> -->
-<p>
-Email: samsulaculhadi@gmail.com<br/>
+
+---
+
+### 🌟 Who Am I?
+
+Hi there! I’m **Samsul Hadi**, a passionate and results-driven **Full Stack Software Engineer** with over **5 years** of hands-on experience developing scalable, maintainable, and impactful software.
+
+I specialize in building modern web & mobile apps using **Laravel**, **Vue.js**, **React**, **Flutter**, and **AWS** to solve real-world problems and support businesses in growing smarter, faster, and stronger.
+
+I thrive in dynamic environments and love working with teams that value clean code, open communication, and continuous learning. I'm currently based in **South Tangerang, Indonesia**, and open for **remote/onsite opportunities** 🌍
+
+---
+
+### 🔧 Tech Toolbox
+
+#### 🧠 Core Languages
+`JavaScript` · `PHP` · `Python`
+
+#### 🎨 Frontend Stack
+`HTML` · `CSS` · `Tailwind` · `jQuery` · `Vue` · `React` · `Livewire` · `Flutter`
+
+#### ⚙ Backend Stack
+`Laravel` · `Yii2` · `Node.js` · `Express` · `Sequelize`
+
+#### 💾 Databases
+`MySQL` · `PostgreSQL` · `Firebase`
+
+#### 🧪 Testing Tools
+`Manual` · `Postman` · `Selenium`
+
+#### ☁️ Cloud & Deployment
+`AWS` · `Docker` · `Kubernetes` · `cPanel` · `PaaS` · `SaaS`
+
+#### 🛠 Additional Skills
+- 🎨 Multimedia: `Photoshop` · `Premiere Pro` · `CapCut`
+- 📢 Digital Marketing: `SEO` · `Google Ads` · `Social Media` · `Marketplace`
+- 🖥️ IT & Networking: `Windows/Linux/Mac` · `MikroTik` · `CCTV` · `Printer`
+- 🧩 CMS: `WordPress (Theme/Plugin Dev & Customization)`
+- 🔌 Web Services: `REST` · `SOAP` · `HTTP`
+- 🔁 Version Control: `GitHub` · `GitLab` · `Git`
+
+---
+
+### 💼 Selected Projects
+
+Here are a few highlighted projects that I'm proud of:
+
+| 🔗 Project | 🚀 Description |
+|--|--|
+| **[Borang v3](https://samsulhadiss.com/projects)** | A dynamic, multi-step module for internal government processes. |
+| **[ERP System – Holycow! Restaurant](https://samsulhadiss.com/projects)** | Custom ERP covering HRM, operations, purchase, and marketing. |
+| **[School Tuition App](https://samsulhadiss.com/projects)** | Tuition management system for Muhammadiyah School (East Jakarta). |
+| **[BIG APPS – Smart Village](https://samsulhadiss.com/projects)** | A digital ecosystem for mosque and community unit management. |
+| **[Online Attendance – PT Golden Hills](https://samsulhadiss.com/projects)** | Real-time employee attendance for property company. |
+
+📎 Explore more on → [samsulhadiss.com/projects](https://samsulhadiss.com/projects)
+
+---
+
+### 📈 GitHub Stats & Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samsul97&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsul97&layout=compact&theme=radical" height="180">
 </p>
-</div>
 
+---
 
+### 🔗 Scan & Explore My Portfolio
 
-github.com/samsul97 is a special repository ✨ because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://samsulhadiss.com/projects&size=160x160" alt="QR Code to Portfolio" />
+  <br/>
+  <i>Scan me to visit my portfolio!</i>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+- 📩 Email: [samsulaculhadi@gmail.com](mailto:samsulaculhadi@gmail.com)
+- 🌐 Website: [samsulhadiss.com](https://samsulhadiss.com)
+- 💼 LinkedIn: [linkedin.com/in/samsul97](https://www.linkedin.com/in/samsul97)
+
+<p align="center">
+  <b>"Great things are built with clean code, solid logic, and creative execution."</b>
+</p>
+
+---
+
+<p align="center">
+  💡 Always open to collaborate, discuss ideas, or contribute to cool projects!
+</p>
