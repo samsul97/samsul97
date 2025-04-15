@@ -60,7 +60,7 @@ Here are a few highlighted projects that I'm proud of:
 
 | 🔗 Project | 🚀 Description |
 |--|--|
-| **[Borang v3](https://samsulhadiss.com/projects)** | A dynamic, multi-step module for internal government processes. |
+| **[Building Assesment System](https://samsulhadiss.com/projects)** | Web & mobile app for real-time structural inspections, auto-generating reports to support large-scale infrastructure decisions for JKR Malaysia. |
 | **[ERP Custom – F&B Restaurant](https://samsulhadiss.com/projects)** | Custom ERP covering HRM, operations, purchase, and marketing. |
 | **[Car Service - Dealership](https://samsulhadiss.com/projects)** | Transaction system for automotive workshop in Tangerang Selatan, handling service orders, invoices, and customer data. |
 | **[BIG APPS – Smart Village](https://samsulhadiss.com/projects)** | Community platform empowering mosques, RTs, schools & MSMEs, transforming a local village into a digital smart city. |
