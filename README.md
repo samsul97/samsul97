@@ -27,13 +27,13 @@ I thrive in dynamic environments and love working with teams that value clean co
 ### 🔧 Tech Toolbox
 
 #### 🧠 Core Languages
-`JavaScript` · `PHP` · `Python`
+`JavaScript` · `PHP` · `Python`, Dart, TypeScript
 
 #### 🎨 Frontend Stack
 `HTML` · `CSS` · `Tailwind` · `jQuery` · `Vue` · `React` · `Livewire` · `Flutter`
 
 #### ⚙ Backend Stack
-`Laravel` · `Yii2` · `Node.js` · `Express` · `Sequelize`
+`Laravel` · `Yii` · `Node.js` · `Express` · `Sequelize`
 
 #### 💾 Databases
 `MySQL` · `PostgreSQL` · `Firebase`
@@ -42,10 +42,10 @@ I thrive in dynamic environments and love working with teams that value clean co
 `Manual` · `Postman` · `Selenium`
 
 #### ☁️ Cloud & Deployment
-`AWS` · `Docker` · `Kubernetes` · `cPanel` · `PaaS` · `SaaS`
+`AWS` · `Docker` · `Kubernetes` · `cPanel` · `SaaS`
 
 #### 🛠 Additional Skills
-- 🎨 Multimedia: `Photoshop` · `Premiere Pro` · `CapCut`
+- 🎨 Multimedia: `Figma/Canva/Adobe Photoshop` · `Premiere Pro` · `CapCut`
 - 📢 Digital Marketing: `SEO` · `Google Ads` · `Social Media` · `Marketplace`
 - 🖥️ IT & Networking: `Windows/Linux/Mac` · `MikroTik` · `CCTV` · `Printer`
 - 🧩 CMS: `WordPress (Theme/Plugin Dev & Customization)`
@@ -61,10 +61,10 @@ Here are a few highlighted projects that I'm proud of:
 | 🔗 Project | 🚀 Description |
 |--|--|
 | **[Borang v3](https://samsulhadiss.com/projects)** | A dynamic, multi-step module for internal government processes. |
-| **[ERP System – Holycow! Restaurant](https://samsulhadiss.com/projects)** | Custom ERP covering HRM, operations, purchase, and marketing. |
-| **[School Tuition App](https://samsulhadiss.com/projects)** | Tuition management system for Muhammadiyah School (East Jakarta). |
-| **[BIG APPS – Smart Village](https://samsulhadiss.com/projects)** | A digital ecosystem for mosque and community unit management. |
-| **[Online Attendance – PT Golden Hills](https://samsulhadiss.com/projects)** | Real-time employee attendance for property company. |
+| **[ERP Custom – F&B Restaurant](https://samsulhadiss.com/projects)** | Custom ERP covering HRM, operations, purchase, and marketing. |
+| **[Car Service - Dealership](https://samsulhadiss.com/projects)** | Transaction system for automotive workshop in Tangerang Selatan, handling service orders, invoices, and customer data. |
+| **[BIG APPS – Smart Village](https://samsulhadiss.com/projects)** | Community platform empowering mosques, RTs, schools & MSMEs, transforming a local village into a digital smart city. |
+| **[Attendance Apps – Architectural Bureau](https://samsulhadiss.com/projects)** | Real-time employee attendance for property company. |
 
 📎 Explore more on → [samsulhadiss.com/projects](https://samsulhadiss.com/projects)
 
