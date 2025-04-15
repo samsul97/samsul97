@@ -93,7 +93,7 @@ Here are a few highlighted projects that I'm proud of:
 
 - 📩 Email: [samsulaculhadi@gmail.com](mailto:samsulaculhadi@gmail.com)
 - 🌐 Website: [samsulhadiss.com](https://samsulhadiss.com)
-- 💼 LinkedIn: [linkedin.com/in/samsul97](https://www.linkedin.com/in/samsulhadi-ss)
+- 💼 LinkedIn: [linkedin.com/in/samsulhadi-ss](https://www.linkedin.com/in/samsulhadi-ss)
 
 <p align="center">
   <b>"Great things are built with clean code, solid logic, and creative execution."</b>
