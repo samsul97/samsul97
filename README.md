@@ -69,11 +69,10 @@ Full list with context → [samsulhadiss.com/projects](https://samsulhadiss.com/
 
 ### ✍️ Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-- [Tanggal Kedaluwarsa di Botol Obat Bisa Menipu: Batas Pakai Setelah Dibuka Sering Jauh Lebih Pendek](https://samsulhadiss.com/articles/tanggal-kedaluwarsa-obat-batas-pakai-setelah-dibuka) <sub>· 31 Oct 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Tanggal Kedaluwarsa di Botol Obat Bisa Menipu: Batas Pakai Setelah Dibuka Sering Jauh Lebih Pendek](https://samsulhadiss.com/articles/tanggal-kedaluwarsa-obat-batas-pakai-setelah-dibuka) <sub>· 31 Oct 2026</sub>
 - [Nomor Urut Kembar di Laravel: Kenapa Rule::unique Tidak Cukup dan Cara Membuatnya Aman dengan lockForUpdate](https://samsulhadiss.com/articles/nomor-urut-kembar-laravel-rule-unique-lockforupdate) <sub>· 29 Oct 2026</sub>
-- [Pengingat yang Mati Tidak Pernah Bilang "Saya Mati". Cara Supaya Kamu Tahu Lebih Cepat](https://samsulhadiss.com/articles/pengingat-yang-mati-tidak-pernah-bilang-saya-mati) <sub>· 28 Oct 2026</sub>
-- [Status "Dalam Proses" yang Tidak Pernah Selesai: Tiga Cara Job Laravel Gagal Tanpa Memberi Tahu Siapa Pun](https://samsulhadiss.com/articles/status-dalam-proses-tidak-pernah-selesai-job-laravel) <sub>· 26 Oct 2026</sub>
+- [Pengingat yang Mati Tidak Pernah Bilang &quot;Saya Mati&quot;. Cara Supaya Kamu Tahu Lebih Cepat](https://samsulhadiss.com/articles/pengingat-yang-mati-tidak-pernah-bilang-saya-mati) <sub>· 28 Oct 2026</sub>
+- [Status &quot;Dalam Proses&quot; yang Tidak Pernah Selesai: Tiga Cara Job Laravel Gagal Tanpa Memberi Tahu Siapa Pun](https://samsulhadiss.com/articles/status-dalam-proses-tidak-pernah-selesai-job-laravel) <sub>· 26 Oct 2026</sub>
 - [Catatan Pengeluaran Rumah Tangga Jarang Gagal di Niat. Gagalnya di Dua Tempat Ini](https://samsulhadiss.com/articles/catatan-pengeluaran-rumah-tangga-gagal-di-dua-tempat) <sub>· 24 Oct 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
