@@ -69,11 +69,11 @@ Full list with context → [samsulhadiss.com/projects](https://samsulhadiss.com/
 
 ### ✍️ Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Tanggal Kedaluwarsa di Botol Obat Bisa Menipu: Batas Pakai Setelah Dibuka Sering Jauh Lebih Pendek](https://samsulhadiss.com/articles/tanggal-kedaluwarsa-obat-batas-pakai-setelah-dibuka) <sub>· 31 Oct 2026</sub>
-- [Nomor Urut Kembar di Laravel: Kenapa Rule::unique Tidak Cukup dan Cara Membuatnya Aman dengan lockForUpdate](https://samsulhadiss.com/articles/nomor-urut-kembar-laravel-rule-unique-lockforupdate) <sub>· 29 Oct 2026</sub>
-- [Pengingat yang Mati Tidak Pernah Bilang &quot;Saya Mati&quot;. Cara Supaya Kamu Tahu Lebih Cepat](https://samsulhadiss.com/articles/pengingat-yang-mati-tidak-pernah-bilang-saya-mati) <sub>· 28 Oct 2026</sub>
-- [Status &quot;Dalam Proses&quot; yang Tidak Pernah Selesai: Tiga Cara Job Laravel Gagal Tanpa Memberi Tahu Siapa Pun](https://samsulhadiss.com/articles/status-dalam-proses-tidak-pernah-selesai-job-laravel) <sub>· 26 Oct 2026</sub>
-- [Catatan Pengeluaran Rumah Tangga Jarang Gagal di Niat. Gagalnya di Dua Tempat Ini](https://samsulhadiss.com/articles/catatan-pengeluaran-rumah-tangga-gagal-di-dua-tempat) <sub>· 24 Oct 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Tenggat Kabur Bikin Siaga Seharian: Cara Mengubah &quot;Secepatnya&quot; Jadi Tanggal yang Disepakati](https://samsulhadiss.com/articles/tenggat-kabur-cara-konfirmasi-deadline-kerja) <sub>· 07 Nov 2026</sub>
+- [Tugas Rutin Tidak Butuh AI: Memindahkan Cek Cuaca dari Agent ke Script, dari 32 Ribu Token ke Nol](https://samsulhadiss.com/articles/tugas-rutin-tidak-butuh-ai-agent-ke-script-hemat-token) <sub>· 05 Nov 2026</sub>
+- [Cari Lowongan Remote Luar Negeri dengan AI: Panduan Membuat Radar Loker Harian untuk Dua Orang](https://samsulhadiss.com/articles/cari-lowongan-remote-luar-negeri-dengan-ai-radar-loker-harian) <sub>· 04 Nov 2026</sub>
+- [Checksum Saja Tidak Cukup: Cara Memverifikasi Installer dengan SHA-256 dan Tanda Tangan OpenSSL](https://samsulhadiss.com/articles/verifikasi-installer-checksum-sha256-tanda-tangan-openssl) <sub>· 02 Nov 2026</sub>
+- [Tanggal Kedaluwarsa di Botol Obat Bisa Menipu: Batas Pakai Setelah Dibuka Sering Jauh Lebih Pendek](https://samsulhadiss.com/articles/tanggal-kedaluwarsa-obat-batas-pakai-setelah-dibuka) <sub>· 31 Oct 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [samsulhadiss.com/blog](https://samsulhadiss.com/blog)
