@@ -69,11 +69,11 @@ Full list with context → [samsulhadiss.com/projects](https://samsulhadiss.com/
 
 ### ✍️ Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Tenggat Kabur Bikin Siaga Seharian: Cara Mengubah &quot;Secepatnya&quot; Jadi Tanggal yang Disepakati](https://samsulhadiss.com/articles/tenggat-kabur-cara-konfirmasi-deadline-kerja) <sub>· 07 Nov 2026</sub>
-- [Tugas Rutin Tidak Butuh AI: Memindahkan Cek Cuaca dari Agent ke Script, dari 32 Ribu Token ke Nol](https://samsulhadiss.com/articles/tugas-rutin-tidak-butuh-ai-agent-ke-script-hemat-token) <sub>· 05 Nov 2026</sub>
-- [Cari Lowongan Remote Luar Negeri dengan AI: Panduan Membuat Radar Loker Harian untuk Dua Orang](https://samsulhadiss.com/articles/cari-lowongan-remote-luar-negeri-dengan-ai-radar-loker-harian) <sub>· 04 Nov 2026</sub>
-- [Checksum Saja Tidak Cukup: Cara Memverifikasi Installer dengan SHA-256 dan Tanda Tangan OpenSSL](https://samsulhadiss.com/articles/verifikasi-installer-checksum-sha256-tanda-tangan-openssl) <sub>· 02 Nov 2026</sub>
-- [Tanggal Kedaluwarsa di Botol Obat Bisa Menipu: Batas Pakai Setelah Dibuka Sering Jauh Lebih Pendek](https://samsulhadiss.com/articles/tanggal-kedaluwarsa-obat-batas-pakai-setelah-dibuka) <sub>· 31 Oct 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [Riset Kompetitor Usaha Kecil dari Google Maps: Cara Membaca Rating dan Ulasan Sebelum Mulai Jualan](https://samsulhadiss.com/articles/riset-kompetitor-usaha-kecil-google-maps-rating-ulasan) <sub>· 14 Nov 2026</sub>
+- [Bot Sales WhatsApp dengan OpenClaw: Jawab dari FAQ Backend, dan Satu Setelan yang Menentukan Amannya](https://samsulhadiss.com/articles/bot-sales-whatsapp-openclaw-faq-backend-dmscope) <sub>· 12 Nov 2026</sub>
+- [Ternak dan Kolam di Rumah Tanpa Lupa Jadwal: Cara Saya Membagi Tugas antara AI dan Pengingat Biasa](https://samsulhadiss.com/articles/jadwal-ternak-kolam-rumah-ai-dan-pengingat) <sub>· 11 Nov 2026</sub>
+- [Token Rahasia di Aplikasi Flutter: Kenapa String.fromEnvironment dan --dart-define Tidak Menyembunyikannya](https://samsulhadiss.com/articles/token-rahasia-flutter-string-fromenvironment-dart-define-apk) <sub>· 09 Nov 2026</sub>
+- [Tenggat Kabur Bikin Siaga Seharian: Cara Mengubah &quot;Secepatnya&quot; Jadi Tanggal yang Disepakati](https://samsulhadiss.com/articles/tenggat-kabur-cara-konfirmasi-deadline-kerja) <sub>· 07 Nov 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [samsulhadiss.com/blog](https://samsulhadiss.com/blog)
