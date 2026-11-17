@@ -69,11 +69,11 @@ Full list with context → [samsulhadiss.com/projects](https://samsulhadiss.com/
 
 ### ✍️ Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Riset Kompetitor Usaha Kecil dari Google Maps: Cara Membaca Rating dan Ulasan Sebelum Mulai Jualan](https://samsulhadiss.com/articles/riset-kompetitor-usaha-kecil-google-maps-rating-ulasan) <sub>· 14 Nov 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [MySQL Strict Mode di Laravel: Satu SET sql_mode yang Diam-diam Mengubah Data di Seluruh Aplikasi](https://samsulhadiss.com/articles/mysql-strict-mode-laravel-set-sql-mode-data-terpotong) <sub>· 16 Nov 2026</sub>
+- [Riset Kompetitor Usaha Kecil dari Google Maps: Cara Membaca Rating dan Ulasan Sebelum Mulai Jualan](https://samsulhadiss.com/articles/riset-kompetitor-usaha-kecil-google-maps-rating-ulasan) <sub>· 14 Nov 2026</sub>
 - [Bot Sales WhatsApp dengan OpenClaw: Jawab dari FAQ Backend, dan Satu Setelan yang Menentukan Amannya](https://samsulhadiss.com/articles/bot-sales-whatsapp-openclaw-faq-backend-dmscope) <sub>· 12 Nov 2026</sub>
 - [Ternak dan Kolam di Rumah Tanpa Lupa Jadwal: Cara Saya Membagi Tugas antara AI dan Pengingat Biasa](https://samsulhadiss.com/articles/jadwal-ternak-kolam-rumah-ai-dan-pengingat) <sub>· 11 Nov 2026</sub>
 - [Token Rahasia di Aplikasi Flutter: Kenapa String.fromEnvironment dan --dart-define Tidak Menyembunyikannya](https://samsulhadiss.com/articles/token-rahasia-flutter-string-fromenvironment-dart-define-apk) <sub>· 09 Nov 2026</sub>
-- [Tenggat Kabur Bikin Siaga Seharian: Cara Mengubah &quot;Secepatnya&quot; Jadi Tanggal yang Disepakati](https://samsulhadiss.com/articles/tenggat-kabur-cara-konfirmasi-deadline-kerja) <sub>· 07 Nov 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [samsulhadiss.com/blog](https://samsulhadiss.com/blog)
